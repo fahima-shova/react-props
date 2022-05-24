@@ -1,0 +1,27 @@
+iframe {
+  height: 0px !important;
+  width: 0px !important;
+}
+
+body {
+  margin-top: 60px;
+  background: rgb(89, 91, 247);
+  background: linear-gradient(
+    132deg,
+    rgb(230, 241, 142) 0%,
+    rgba(174, 242, 172, 0.761) 64%,
+    rgb(75, 230, 212) 100%
+  );
+}
+
+.ui.card {
+  margin-top: 10px !important;
+  margin-bottom: 1em !important;
+  background-color: white !important;
+}
+
+#root .ui.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+} 

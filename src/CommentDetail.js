@@ -1,6 +1,4 @@
 import React from 'react';
-import Faker from 'faker';
-
 
 const CommentDetail = props =>{
     return (
